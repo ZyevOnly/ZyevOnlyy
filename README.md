@@ -33,11 +33,8 @@
 ---
 
 ## 💬 Связаться со мной
-- [Telegram](https://t.me/username)
-- [Email](mailto:john.doe@test.com)
-- [LinkedIn](https://linkedin.com/in/username)
-- [Portfolio](https://yourportfolio.com)
-
+- [Telegram](https://t.me/onlyzyev)
+- [Email](shopzyev@gmail.com)
 ---
 
 ## ⚡ Навыки
