@@ -55,13 +55,6 @@
 
 ---
 
-## 📂 Проекты
-- [Todo App на React](https://github.com/john-doe/todo-app) – современное веб-приложение с использованием Hooks и Context API
-- [Блог на Vue](https://github.com/john-doe/vue-blog) – SPA с маршрутизацией и управлением состоянием
-- [REST API на Node.js](https://github.com/john-doe/node-api) – API для работы с задачами и пользователями
-- [Проекты на Python](https://github.com/john-doe/python-projects) – веб-приложения на Django и Flask, автоматизация процессов
-- [Dockerized Projects](https://github.com/john-doe/docker-projects) – примеры использования Docker и Docker Compose для разработки
-
 ---
 
 ## 📊 Статистика GitHub
